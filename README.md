@@ -1,4 +1,5 @@
 ### Olá, Sou o Vinicius! 👋
+<br>
 
 
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustVi&show_icons=true&theme=dark)
