@@ -1,8 +1,13 @@
-### Olá, Sou o Vinicius! 👋
+## Olá, Sou o Vinicius! 👋
+<br>
+
+#### Estudante de ADS, focado em aprender JavaScript! <br>
+#### Meu próximo passo é estudar nodeJs :)
+
 <br>
 
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustVi&show_icons=true&theme=dark)
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustVi&show_icons=true&theme=omni)
 
 ## Técnologias
 <div style="display: inline_block">
