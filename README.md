@@ -1,8 +1,7 @@
 ## Olá, Sou o Vinicius! 👋
 <br>
 
-#### Developer Java <br>
-#### 
+### Developer Java <br>
 
 <br>
 
